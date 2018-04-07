@@ -1,2 +1,2 @@
 // Drawing the container
-var draw = SVG('').size('100vw', '100vh');
+var draw = SVG('circles').size('100vw', '100vh');
